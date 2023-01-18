@@ -1,0 +1,20 @@
+{
+  "name": "js201_api_newpage",
+  "version": "1.0.0",
+  "description": "Fake REST API for project js201",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AditiKulkarni1697/js201_api_newpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AditiKulkarni1697/js201_api_newpage/issues"
+  },
+  "homepage": "https://github.com/AditiKulkarni1697/js201_api_newpage#readme"
+}
